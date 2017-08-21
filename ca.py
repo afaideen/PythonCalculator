@@ -11,7 +11,7 @@ operator = ""
 opVar = False
 sumIt = 0
 
-
+# ref: http://thecodeinn.blogspot.my/2013/07/tutorial-pyqt-calculator.html
 class Main(QtGui.QMainWindow):
     def __init__(self):
         QtGui.QMainWindow.__init__(self)
